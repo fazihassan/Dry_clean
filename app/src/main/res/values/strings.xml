@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Laundary app</string>
+    <string name="services">Services</string>
+    <string name="_1000">$1000</string>
+    <string name="spacial_promo">Spacial Promo</string>
+    <string name="my_current_balance_is">My Current Balance is:</string>
+    <string name="order_no_2345678">Order No # 2345678</string>
+    <string name="order_confirmed">Order Confirmed</string>
+    <string name="active_order">Active Order</string>
+    <string name="choose_by_type">Choose By Type</string>
+
+        <string-array name="planets_array">
+            <item>Mercury</item>
+            <item>Venus</item>
+            <item>Earth</item>
+            <item>Mars</item>
+            <item>Jupiter</item>
+            <item>Saturn</item>
+            <item>Uranus</item>
+            <item>Neptune</item>
+        </string-array>
+
+</resources>
